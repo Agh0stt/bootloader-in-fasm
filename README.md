@@ -61,7 +61,7 @@ Requires the `falcon` and `faSM` repos (clone alongside this one), plus
 `qemu-system-x86` for the final boot test.
 
     git clone https://github.com/Agh0stt/falcon.git
-    git clone https://github.com/Agh0stt/faSM.git
+    git clone https://github.com/Agh0stt/bootloader-in-fasm.git
     ./build.sh ./falcon ./faSM
 
 This builds `falconc`, compiles `fasm.fl` through it to produce a working
