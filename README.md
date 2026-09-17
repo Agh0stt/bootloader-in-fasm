@@ -1,7 +1,6 @@
 # bootloader-fasm
 
-A minimal BIOS boot sector, assembled with **faSM**
-(https://github.com/Agh0stt/faSM) — a 32-bit x86 assembler written in
+A minimal BIOS boot sector, assembled with **fasm** — a 32-bit x86 assembler written in
 **Falcon** (https://github.com/Agh0stt/falcon) — instead of nasm.
 
 It prints:
